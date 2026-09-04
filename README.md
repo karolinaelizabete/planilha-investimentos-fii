@@ -25,3 +25,4 @@ A ferramenta permite projetar o crescimento do patrimônio e estimar dividendos 
 Projeto desenvolvido como parte de um curso de Excel, com foco na aplicação de fórmulas e recursos de análise financeira.
 
 > **Observação:** Projeto desenvolvido para fins educacionais. As projeções não representam recomendação ou garantia de rentabilidade.
+![Preview da planilha](preview.png)
